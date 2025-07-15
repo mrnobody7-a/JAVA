@@ -5,7 +5,7 @@
 ```markdown
 # Java Linked List Implementations
 
-This repository contains clean and beginner-friendly implementations of **Singly Linked List** and **Doubly Linked List** in Java.
+This repository contains clean and beginner-friendly implementations of Singly Linked List and Doubly Linked List in Java.
 
 ## 📌 Overview
 
