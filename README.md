@@ -17,12 +17,14 @@ Linked lists are fundamental data structures used for efficient insertions and d
 ## ✅ Features
 
 ### Singly Linked List
+
 - Insert at beginning, end, or specific position
 - Delete from beginning, end, or specific position
 - Search for an element
 - Display list
 
 ### Doubly Linked List
+
 - Insert at beginning, end, or specific position
 - Delete from beginning, end, or specific position
 - Traverse forward and backward
