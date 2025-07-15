@@ -11,8 +11,8 @@ This repository contains clean and beginner-friendly implementations of Singly L
 
 Linked lists are fundamental data structures used for efficient insertions and deletions. This repo showcases:
 
-- 🔗 **Singly Linked List**
-- 🔁 **Doubly Linked List**
+- Singly Linked List
+- Doubly Linked List
 
 ## ✅ Features
 
